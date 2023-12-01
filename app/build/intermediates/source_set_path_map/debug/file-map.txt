@@ -1,0 +1,38 @@
+com.example.lab_week_12.app-core-1.9.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\02655a28e1db0b4a138a6415bccaac37\transformed\core-1.9.0\res
+com.example.lab_week_12.app-jetified-activity-1.5.1-1 C:\Users\ASUS\.gradle\caches\transforms-3\1469a15163062768d6c9820a6c514c05\transformed\jetified-activity-1.5.1\res
+com.example.lab_week_12.app-drawerlayout-1.1.1-2 C:\Users\ASUS\.gradle\caches\transforms-3\19caef8d0e81bda6da49533678349634\transformed\drawerlayout-1.1.1\res
+com.example.lab_week_12.app-cardview-1.0.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\1b555d82b78c54a6193d0e87a83a4e96\transformed\cardview-1.0.0\res
+com.example.lab_week_12.app-jetified-annotation-experimental-1.3.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\1d6a9eeb92f886cb0ffa86184b4c6ad7\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.lab_week_12.app-fragment-1.3.6-5 C:\Users\ASUS\.gradle\caches\transforms-3\2f85d5bea68b62dab90645aba714e284\transformed\fragment-1.3.6\res
+com.example.lab_week_12.app-transition-1.2.0-6 C:\Users\ASUS\.gradle\caches\transforms-3\38227d42dac705cc01327b6c186cd0be\transformed\transition-1.2.0\res
+com.example.lab_week_12.app-jetified-savedstate-1.2.0-7 C:\Users\ASUS\.gradle\caches\transforms-3\4212c817be068d8781bac4b497bb00c6\transformed\jetified-savedstate-1.2.0\res
+com.example.lab_week_12.app-jetified-lifecycle-runtime-ktx-2.5.1-8 C:\Users\ASUS\.gradle\caches\transforms-3\42916b3e437ae6943df6b9106bdb1e5c\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.example.lab_week_12.app-jetified-appcompat-resources-1.5.1-9 C:\Users\ASUS\.gradle\caches\transforms-3\5109dfcc5814c402455635053c596975\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.lab_week_12.app-appcompat-1.5.1-10 C:\Users\ASUS\.gradle\caches\transforms-3\518f4b135b6e854a6d7cf9ad9cc72f39\transformed\appcompat-1.5.1\res
+com.example.lab_week_12.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\ASUS\.gradle\caches\transforms-3\642c1e23d0e94d293459be9b67f954e3\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.lab_week_12.app-lifecycle-livedata-2.5.1-12 C:\Users\ASUS\.gradle\caches\transforms-3\6668c86eb62ba2a693d02670fa7f917a\transformed\lifecycle-livedata-2.5.1\res
+com.example.lab_week_12.app-recyclerview-1.2.1-13 C:\Users\ASUS\.gradle\caches\transforms-3\6bfad4391955d0a7d8a0d34872586976\transformed\recyclerview-1.2.1\res
+com.example.lab_week_12.app-jetified-core-ktx-1.9.0-14 C:\Users\ASUS\.gradle\caches\transforms-3\8184177bb34a70186899c3229e532e19\transformed\jetified-core-ktx-1.9.0\res
+com.example.lab_week_12.app-jetified-startup-runtime-1.1.1-15 C:\Users\ASUS\.gradle\caches\transforms-3\88f0a583b664ec3f87997e5770273cae\transformed\jetified-startup-runtime-1.1.1\res
+com.example.lab_week_12.app-jetified-emoji2-1.2.0-16 C:\Users\ASUS\.gradle\caches\transforms-3\92d7be33811fdc61692036f625b5c56a\transformed\jetified-emoji2-1.2.0\res
+com.example.lab_week_12.app-lifecycle-viewmodel-2.5.1-17 C:\Users\ASUS\.gradle\caches\transforms-3\a4f8a05ce65a6cbe54ea2c7da9f46776\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.lab_week_12.app-jetified-viewpager2-1.0.0-18 C:\Users\ASUS\.gradle\caches\transforms-3\af966ee5c02dc4f0e39eae284e303fe4\transformed\jetified-viewpager2-1.0.0\res
+com.example.lab_week_12.app-lifecycle-runtime-2.5.1-19 C:\Users\ASUS\.gradle\caches\transforms-3\b313598553b7211e4b8cd5fd4c252ce7\transformed\lifecycle-runtime-2.5.1\res
+com.example.lab_week_12.app-material-1.7.0-20 C:\Users\ASUS\.gradle\caches\transforms-3\b7c846c37431855e34dfb64b073aff4a\transformed\material-1.7.0\res
+com.example.lab_week_12.app-jetified-lifecycle-livedata-ktx-2.5.1-21 C:\Users\ASUS\.gradle\caches\transforms-3\ba8bff5b63c54426f6bc4f667e6c9919\transformed\jetified-lifecycle-livedata-ktx-2.5.1\res
+com.example.lab_week_12.app-jetified-emoji2-views-helper-1.2.0-22 C:\Users\ASUS\.gradle\caches\transforms-3\bb1ee2b930e8768d3f363368c07b8714\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.lab_week_12.app-coordinatorlayout-1.1.0-23 C:\Users\ASUS\.gradle\caches\transforms-3\bb84c7ab42ec140513c85e077719032e\transformed\coordinatorlayout-1.1.0\res
+com.example.lab_week_12.app-jetified-lifecycle-process-2.4.1-24 C:\Users\ASUS\.gradle\caches\transforms-3\c50aa8c6223c9788e4c6ba10aff01571\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.lab_week_12.app-jetified-lifecycle-viewmodel-ktx-2.5.1-25 C:\Users\ASUS\.gradle\caches\transforms-3\ced67e432c6065797dbb29fc7d486a2d\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.example.lab_week_12.app-jetified-lifecycle-livedata-core-ktx-2.5.1-26 C:\Users\ASUS\.gradle\caches\transforms-3\d14402e87013909b2165068c288e2ba7\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.example.lab_week_12.app-jetified-glide-4.12.0-27 C:\Users\ASUS\.gradle\caches\transforms-3\e727fb1e484dc5fb0c7873dd63ee58a1\transformed\jetified-glide-4.12.0\res
+com.example.lab_week_12.app-constraintlayout-2.1.4-28 C:\Users\ASUS\.gradle\caches\transforms-3\efc21e02ea82c2e81c78de04cf5a2fc4\transformed\constraintlayout-2.1.4\res
+com.example.lab_week_12.app-lifecycle-livedata-core-2.5.1-29 C:\Users\ASUS\.gradle\caches\transforms-3\f635f408a2ee754f10e616b11d9e54e0\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.lab_week_12.app-pngs-30 G:\Jason ST\5\MAP\Lab\Week 12\app\build\generated\res\pngs\debug
+com.example.lab_week_12.app-resValues-31 G:\Jason ST\5\MAP\Lab\Week 12\app\build\generated\res\resValues\debug
+com.example.lab_week_12.app-rs-32 G:\Jason ST\5\MAP\Lab\Week 12\app\build\generated\res\rs\debug
+com.example.lab_week_12.app-mergeDebugResources-33 G:\Jason ST\5\MAP\Lab\Week 12\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.lab_week_12.app-mergeDebugResources-34 G:\Jason ST\5\MAP\Lab\Week 12\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.lab_week_12.app-merged_res-35 G:\Jason ST\5\MAP\Lab\Week 12\app\build\intermediates\merged_res\debug
+com.example.lab_week_12.app-debug-36 G:\Jason ST\5\MAP\Lab\Week 12\app\src\debug\res
+com.example.lab_week_12.app-main-37 G:\Jason ST\5\MAP\Lab\Week 12\app\src\main\res

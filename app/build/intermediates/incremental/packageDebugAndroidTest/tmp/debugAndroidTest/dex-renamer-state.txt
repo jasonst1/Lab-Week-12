@@ -1,0 +1,13 @@
+#Fri Dec 01 17:22:31 WIB 2023
+base.0=G\:\\Jason ST\\5\\MAP\\Lab\\Week 12\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=G\:\\Jason ST\\5\\MAP\\Lab\\Week 12\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=G\:\\Jason ST\\5\\MAP\\Lab\\Week 12\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+base.3=G\:\\Jason ST\\5\\MAP\\Lab\\Week 12\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\14\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=10/classes.dex
+path.3=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
